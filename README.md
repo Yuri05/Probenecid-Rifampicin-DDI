@@ -2,7 +2,7 @@
 Modeling of published clinical Probenecid-Rifampicin-DDI studies for model evaluation
  
 ### Repository files
-Within this repository, we share a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of the probeneicd model regarding the Probenecid-Rifampicin-DDI, including the respective observed data. The applied [rifampicin](https://github.com/Open-Systems-Pharmacology/Rifampicin-Model) model has been published previously [[1](#reference)]. For further details and documentation please refer to [[2](#reference)].
+Within this repository, we share a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of the probeneicd model regarding the [Probenecid](https://github.com/Open-Systems-Pharmacology/Probenecid-Model)-Rifampicin-DDI, including the respective observed data. The applied [rifampicin](https://github.com/Open-Systems-Pharmacology/Rifampicin-Model) model has been published previously [[1](#reference)]. For further details and documentation please refer to [[2](#reference)].
  
 ### Version information
 PK-Sim Version 9.0.
